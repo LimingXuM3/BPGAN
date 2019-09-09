@@ -20,9 +20,9 @@ A test implementation for the submitted paper "BPGAN: Bidirectional CT-to-MRI Pr
   
 # Demo
 
-  1. Download pre-trained models from [BaiduNetdisk](https://pan.baidu.com/s/1z8lhFlAr3_YthTrNywMNtw). password: amwa.
+  1. Download pre-trained models from [BaiduNetdisk](https://pan.baidu.com/s/1XLjCZnXlRDvmIaHbHAQblA). password: ciw9.
 
-  2. Download partial test samples from [BaiduNetdisk](https://pan.baidu.com/s/1z8lhFlAr3_YthTrNywMNtw), then put all this data into corresponding dir and extract compressed files.
+  2. Download partial test samples from [BaiduNetdisk](https://pan.baidu.com/s/1XLjCZnXlRDvmIaHbHAQblA), then put all this data into corresponding dir and extract compressed files.
        
   3. Copy the model (net_G_A: CT predictor, net_G_B: MRI predictor) into your dir
   
