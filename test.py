@@ -5,7 +5,7 @@ Created on Mon Sep  9 15:29:18 2019
 @author: Liming Xu and He Zhang
 """
 
-# define the test implement
+# define the test implementation
 
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
