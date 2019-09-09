@@ -34,7 +34,7 @@ A test implementation for the submitted paper "BPGAN: Bidirectional CT-to-MRI Pr
      python test.py --dataroot ./datasets/brain --name brain_model
 
 # Notes
-- The implementation of proposed BPGAN model is based on cycle-GAN (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). we improve the cycle-GAN by introducing pathological auxiliary information, spectral normalization, localization and edge retention.
+- The implementation of proposed BPGAN model is based on cycle-GAN (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). We improve the cycle-GAN by introducing pathological auxiliary information, spectral normalization, localization and edge retention to achieve the bidirectional prediction between CT and MRI images.
 - This is developed on a Linux machine running Ubuntu 16.04.
 - Use GPU for the high speed computation.
 - Due to partial samples in SPLP dataset related to private information, so please e-mail me (xulimmail@gmail.com) if you need the dataset and I will share a private link with you.
