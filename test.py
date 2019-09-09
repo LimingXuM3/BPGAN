@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep  9 15:29:18 2019
+
+@author: Liming Xu and He Zhang
+"""
+
+# define the test implement
+
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 from options.test_options import TestOptions
