@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep  9 15:29:18 2019
+Created on Mon Sep 9, 2019
 @author: Liming Xu and He Zhang
 """
 
