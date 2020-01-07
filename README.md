@@ -30,7 +30,8 @@ A test implementation for the submitted paper "BPGAN: Bidirectional CT-to-MRI Pr
      
      cp latest_net_G_B.pth ./brain_model/  
 
-  4. Test for CT or MRI precition from MRI or CT images in proposed BPGAN 
+  4. Test for CT or MRI precition from MRI or CT images in proposed BPGAN
+ 
      python test.py --dataroot ./datasets/brain --name brain_model
 
 # Notes
